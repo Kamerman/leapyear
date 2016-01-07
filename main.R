@@ -3,6 +3,9 @@
 # Willem Kamerman, Luc van Zandbrink
 # Leapyear
 
+# source function
+source("R/is.leap.R")
+
 # test examples
 is.leap(2000)
 is.leap(1581)
