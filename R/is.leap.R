@@ -1,4 +1,4 @@
-# function leap year
+# Function leap year
 
 is.leap <- function(year){
 	if(!is.numeric(year)) {
